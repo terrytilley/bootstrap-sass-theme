@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap-sass-theme",
+  "version": "0.0.1",
+  "description": "Custom Bootstrap Theme",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Terry Tilley",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrytilley/bootstrap-sass-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/terrytilley/bootstrap-sass-theme/issues"
+  },
+  "homepage": "https://github.com/terrytilley/bootstrap-sass-theme#readme"
+}
